@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/AlyonaUdod/Landing/static/media/town_640.10755b96.jpg"
   },
   {
-    "revision": "5c67a58989523a11dfb7",
+    "revision": "2d4a3dbfa0161d9eb743",
     "url": "/AlyonaUdod/Landing/static/css/main.638b94ed.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/AlyonaUdod/Landing/static/js/runtime~main.b2655b08.js"
   },
   {
-    "revision": "7e67be022ddf01c07a5e",
-    "url": "/AlyonaUdod/Landing/static/js/2.b90c80ce.chunk.js"
+    "revision": "6ddf0a78433639512176",
+    "url": "/AlyonaUdod/Landing/static/js/2.60a44667.chunk.js"
   },
   {
     "revision": "731521205ebe1766776ed0c0952bbcd8",
@@ -56,8 +56,8 @@ self.__precacheManifest = [
     "url": "/AlyonaUdod/Landing/static/media/opera_1920.cef11357.jpg"
   },
   {
-    "revision": "5c67a58989523a11dfb7",
-    "url": "/AlyonaUdod/Landing/static/js/main.10b5ec7b.chunk.js"
+    "revision": "2d4a3dbfa0161d9eb743",
+    "url": "/AlyonaUdod/Landing/static/js/main.52aa84a7.chunk.js"
   },
   {
     "revision": "ded26d62754c6b66139847eba014b636",
@@ -96,6 +96,10 @@ self.__precacheManifest = [
     "url": "/AlyonaUdod/Landing/static/media/chevron-sign-to-right.7124395d.svg"
   },
   {
+    "revision": "6fe5b78019ee7d4d01b4fe4899328e73",
+    "url": "/AlyonaUdod/Landing/static/media/mail.6fe5b780.svg"
+  },
+  {
     "revision": "fcdfae91c0bda93e7049a339ef5314d5",
     "url": "/AlyonaUdod/Landing/static/media/phone.fcdfae91.svg"
   },
@@ -104,11 +108,7 @@ self.__precacheManifest = [
     "url": "/AlyonaUdod/Landing/static/media/home.77fe1121.svg"
   },
   {
-    "revision": "6fe5b78019ee7d4d01b4fe4899328e73",
-    "url": "/AlyonaUdod/Landing/static/media/mail.6fe5b780.svg"
-  },
-  {
-    "revision": "cb6db4848cee40df330bfc92f281532f",
+    "revision": "0c1cd557d9f353717024011792e2cc30",
     "url": "/AlyonaUdod/Landing/index.html"
   }
 ];

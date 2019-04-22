@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/AlyonaUdod/Landing/precache-manifest.9d67f1c7d1dc1e077801219153e3bd04.js"
+  "/AlyonaUdod/Landing/precache-manifest.b6c7a3cdbda791a7e28a1ff10a4dde8f.js"
 );
 
 workbox.clientsClaim();
