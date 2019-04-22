@@ -96,12 +96,12 @@ self.__precacheManifest = [
     "url": "/AlyonaUdod/Landing/static/media/chevron-sign-to-right.7124395d.svg"
   },
   {
-    "revision": "6fe5b78019ee7d4d01b4fe4899328e73",
-    "url": "/AlyonaUdod/Landing/static/media/mail.6fe5b780.svg"
-  },
-  {
     "revision": "fcdfae91c0bda93e7049a339ef5314d5",
     "url": "/AlyonaUdod/Landing/static/media/phone.fcdfae91.svg"
+  },
+  {
+    "revision": "6fe5b78019ee7d4d01b4fe4899328e73",
+    "url": "/AlyonaUdod/Landing/static/media/mail.6fe5b780.svg"
   },
   {
     "revision": "77fe11216dd6d5ef5b1417f1aead9ceb",
