@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/Landing/static/media/town_640.10755b96.jpg"
   },
   {
-    "revision": "0682f308ca454052aca0",
-    "url": "/Landing/static/css/main.fef004fa.chunk.css"
+    "revision": "b75f152741cd2503b02c",
+    "url": "/Landing/static/css/main.5f208d1f.chunk.css"
   },
   {
     "revision": "92baf444afe4dc32bdae",
@@ -56,8 +56,8 @@ self.__precacheManifest = [
     "url": "/Landing/static/media/opera_1920.cef11357.jpg"
   },
   {
-    "revision": "0682f308ca454052aca0",
-    "url": "/Landing/static/js/main.69a7a16d.chunk.js"
+    "revision": "b75f152741cd2503b02c",
+    "url": "/Landing/static/js/main.92777489.chunk.js"
   },
   {
     "revision": "ded26d62754c6b66139847eba014b636",
@@ -96,19 +96,19 @@ self.__precacheManifest = [
     "url": "/Landing/static/media/chevron-sign-to-right.7124395d.svg"
   },
   {
-    "revision": "6fe5b78019ee7d4d01b4fe4899328e73",
-    "url": "/Landing/static/media/mail.6fe5b780.svg"
-  },
-  {
     "revision": "fcdfae91c0bda93e7049a339ef5314d5",
     "url": "/Landing/static/media/phone.fcdfae91.svg"
+  },
+  {
+    "revision": "6fe5b78019ee7d4d01b4fe4899328e73",
+    "url": "/Landing/static/media/mail.6fe5b780.svg"
   },
   {
     "revision": "77fe11216dd6d5ef5b1417f1aead9ceb",
     "url": "/Landing/static/media/home.77fe1121.svg"
   },
   {
-    "revision": "aded6fd7847aeb504246d0cd7e3205b6",
+    "revision": "289a955517edd8df036ce2fb8ebdea00",
     "url": "/Landing/index.html"
   }
 ];
