@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/Landing/static/media/town_640.10755b96.jpg"
   },
   {
-    "revision": "b75f152741cd2503b02c",
-    "url": "/Landing/static/css/main.5f208d1f.chunk.css"
+    "revision": "d07168ce5b626034f0c0",
+    "url": "/Landing/static/css/main.931c6362.chunk.css"
   },
   {
     "revision": "92baf444afe4dc32bdae",
     "url": "/Landing/static/js/runtime~main.df5a74b2.js"
   },
   {
-    "revision": "6ddf0a78433639512176",
-    "url": "/Landing/static/js/2.60a44667.chunk.js"
+    "revision": "f08f67b0d78dd2314c9f",
+    "url": "/Landing/static/js/2.6f117b28.chunk.js"
   },
   {
     "revision": "731521205ebe1766776ed0c0952bbcd8",
@@ -56,8 +56,8 @@ self.__precacheManifest = [
     "url": "/Landing/static/media/opera_1920.cef11357.jpg"
   },
   {
-    "revision": "b75f152741cd2503b02c",
-    "url": "/Landing/static/js/main.92777489.chunk.js"
+    "revision": "d07168ce5b626034f0c0",
+    "url": "/Landing/static/js/main.c2ca6ca3.chunk.js"
   },
   {
     "revision": "ded26d62754c6b66139847eba014b636",
@@ -108,7 +108,7 @@ self.__precacheManifest = [
     "url": "/Landing/static/media/home.77fe1121.svg"
   },
   {
-    "revision": "289a955517edd8df036ce2fb8ebdea00",
+    "revision": "c8ef16db2cd19325db451953e2ccc32e",
     "url": "/Landing/index.html"
   }
 ];
