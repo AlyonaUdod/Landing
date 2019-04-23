@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/AlyonaUdod/Landing/precache-manifest.577c2f19879b524dfaadc35d569a1594.js"
+  "/Landing/precache-manifest.21d207b7c8366253ba3db2a60accc630.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/AlyonaUdod/Landing/index.html", {
+workbox.routing.registerNavigationRoute("/Landing/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
