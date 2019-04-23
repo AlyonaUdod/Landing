@@ -29,6 +29,14 @@
     position: relative;
 }
 
+.footer-menu-item a {
+    transition: color .1s linear;
+}
+
+.footer-menu-item__link--phone:hover, .footer-menu-item__link--mail:hover, .footer-menu-item__link--home:hover{
+    color: rgb(230, 228, 228);
+}
+
 .footer-menu-item__link--phone:before {
     position: absolute;
     display: block;

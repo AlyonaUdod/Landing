@@ -17,6 +17,7 @@ class App extends Component {
   }
 
   componentDidMount(){
+    console.log(window.scrollTo(0, 0))
     window.scrollTo(0, 0);
   }
 
